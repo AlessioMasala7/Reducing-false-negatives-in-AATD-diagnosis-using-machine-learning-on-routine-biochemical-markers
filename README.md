@@ -1,0 +1,2 @@
+# Reducing-false-negatives-in-AATD-diagnosis-using-machine-learning-on-routine-biochemical-markers
+ML-based classification of AATD genetic variants (MM vs MUTATION) using 4 routine biochemical markers (ALFA1%, ALFA1, A1AT, CRP). Validated on 104 patients via 5×2CV. Compares Random Forest, SVC-RBF, Logistic Regression and LinearSVC against the standard A1AT clinical threshold to reduce diagnostic false negatives.
